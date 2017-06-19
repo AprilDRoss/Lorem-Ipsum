@@ -9,6 +9,7 @@
   "author": "April",
   "license": "ISC",
   "dependencies": {
+    "express": "^4.15.3",
     "lorem-ipsum": "github:knicklabs/lorem-ipsum.js"
   }
 }
